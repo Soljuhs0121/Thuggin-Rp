@@ -1,2 +1,2 @@
-# Thuggin-Rp
+# Midlands Rp
 Dev logs
